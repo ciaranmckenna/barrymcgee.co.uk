@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Barry McGee`,
-    description: `Infrequent blog of Barry McGee - a software developer base in Belfast, N. Ireland on technology, politics & life generally.`,
+    description: `Infrequent blog of Barry McGee - a software developer based in Belfast, N. Ireland on technology, politics & life generally.`,
     author: `@barrymcgee`,
     siteUrl: `https://www.barrymcgee.co.uk`,
     image: `https://pbs.twimg.com/profile_images/1068080607585075200/1sjzKTuJ_400x400.jpg`,
